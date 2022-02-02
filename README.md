@@ -5,6 +5,7 @@ Consider the match data of the football world championships from 1872 to 2020 av
 https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017
 
 First, I upload the csv file data into the pandas dataframe, and choosed my favorite team which I called it S. Then I resolved the following queries regarding S:
+
       - Calculate the number of wins, losses and draws
       
       - Calculate the average of the goals scored and conceded
